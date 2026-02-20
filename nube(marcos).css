@@ -1,5 +1,5 @@
 body {background-color:#03fc73; color:#00F; font-family: georgia, cambria, serif; font-size: 16px;}
             h1 {color:rgb(255, 94, 0);font-family:Verdana, Calibri, sans-serif; font-size: 32px;}
             p {color: #3903fc;font-family:Verdana, calibri , sans-serif; font-size: 24px;}
-            em {color: #FFF; background-color: #000; font-size: italic;}
+            em {color: #FFF; background-color: #000; font-style: italic;}
             strong{font-size: 20px}
